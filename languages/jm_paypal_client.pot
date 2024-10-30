@@ -1,0 +1,178 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Paypal Client v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"POT-Revision-Date: Mon Nov 23 2015 15:07:22 GMT+0100 (West-Europa "
+"(standaardtijd))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <jenj.maat@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. Name of the plugin
+msgid "WP Paypal Client"
+msgstr ""
+
+#. Description of the plugin
+msgid "Payment Client plugin to perform payements through Paypal"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jan Maat"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:86
+msgid "Checkin date"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:88
+msgid "Use the correct date format, yyyy-mm-dd"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:94 ../jm_paypal_client_admin.php:164
+msgid "Description"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:96
+msgid "Mandatory field"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:102 ../jm_paypal_cilent.php:104
+msgid "Email"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:104
+msgid "This is not a valid email address"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:109
+msgid "Amount"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:111
+msgid "Input the amount in the format xxxx.xx"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:118
+msgid "Pay"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:136
+msgid "<h2>The Payment is done.</h2>"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:139
+msgid "<h2>The Payment is cancelled.</h2>"
+msgstr ""
+
+#: ../jm_paypal_cilent.php:169
+msgid "<h2>Wait for PayPal</h2>"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:28
+msgid "Paypal Settings"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:67
+msgid "Sandbox Settings"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:72
+msgid "Use Sandbox"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:76
+msgid "Select for testing the Sandbox "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:79
+msgid "Sandbox Username"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:88
+msgid "Username for Sandbox testing. If empty the Sandbox default will be used "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:92
+msgid "Sandbox Password"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:101
+msgid "Password for Sandbox testing. If empty the Sandbox default will be used "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:105
+msgid "Sandbox Signature"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:114
+msgid "Signature for Sandbox testing. If empty the Sandbox default will be used "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:120
+msgid "Real Life Settings"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:125
+msgid "Real Life Username"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:134
+msgid "Username for Real Life payment."
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:138
+msgid "Real Life Password"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:147
+msgid "Password for Real Life payment."
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:151
+msgid "Real Life Signature"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:160
+msgid "Signature for Real Life payment."
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:168
+msgid "Use as description Checkin "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:171
+msgid "Currency"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:175
+msgid "Select Currency "
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:254
+msgid "Sandbox options only needed for testing:"
+msgstr ""
+
+#: ../jm_paypal_client_admin.php:264
+msgid "Real Life Settings. This settings are mandatory for real payments."
+msgstr ""
